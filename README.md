@@ -4,3 +4,10 @@ Flying bitch is a game made in 2 days (this readme is not that optimized, apolog
 
 https://github.com/Bambaclad1/flyingbitch/assets/67043806/c295561c-f23f-4396-8471-eb16dca64427
 
+# The Flying Bitch Game
+
+**About the game**
+Flying bitch is a bullet hell game based on Touhou franchise. The goal is to shoot the enemies that fly towards you and to avoid the bullets. The higher your score the harder the level gets, so keep your eyes peeled on the enemies getting harder.
+
+**Controls**
+You can move around with WASD control and use P to shoot at the enemies.
