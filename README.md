@@ -1,4 +1,5 @@
 # flyingb--ch
+## this game consists foul language, and this was made for a silly joke. please don't take this seriously.
 Flying bi--ch is a game made in 2 days (this readme is not that optimized, apologies)
 This is made for a school project's game jam.
 
