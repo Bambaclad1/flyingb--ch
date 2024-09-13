@@ -2,6 +2,7 @@
 ## this game consists foul language, and this was made for a silly joke. please don't take this seriously.
 Flying bi--ch is a game made in 2 days (this readme is not that optimized, apologies)
 This is made for a school project's game jam.
+The assets used in the game are for personal use and belong to other people/websites.
 
 
 https://github.com/Bambaclad1/flyingbitch/assets/67043806/c295561c-f23f-4396-8471-eb16dca64427
